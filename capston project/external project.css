@@ -1,0 +1,39 @@
+
+.a{
+    height: 400px;
+    width: 600px;
+    background-color: aliceblue;
+    float: center;
+}
+.b{
+    
+    background-image: url(../images/pro\ image\ 2.jpg);
+    background-size: cover;
+}
+.box{
+    height: 50px;
+    width:200px;
+    background-color: wheat;
+
+}
+
+profile{
+    display: left;
+}
+.profile-image{
+    width: 10px;
+    height: 20px;
+    box-shadow: 2px 2px 23px black;
+    overflow-x;
+   border-radius: 20px;
+   margin-right: 30px;
+   background-size:cover;
+}
+.d{
+    height: 300px;
+    width: 600px;
+    background-color: paleturquoise;
+    float: left;
+
+}
+
